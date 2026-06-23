@@ -65,3 +65,7 @@ Large raw datasets and intermediate files are not included in this repository.
 ## Citation
 
 If you use this repository, please cite the associated manuscript and the archived release of this repository when available.
+
+## Path configuration
+
+The scripts retain the original local directory structure used in the analysis. Users should modify the input and output paths in each script according to their own local data directories before running the code.
